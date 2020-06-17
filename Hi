@@ -1,0 +1,8 @@
+root@kali:/home/iicybersecurity# git clone https://github.com/thelinuxchoice/lockphish
+Cloning into 'lockphish'…
+remote: Enumerating objects: 32, done.
+remote: Counting objects: 100% (32/32), done.
+remote: Compressing objects: 100% (32/32), done.
+remote: Total 32 (delta 11), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (32/32), 28.39 KiB | 215.00 KiB/s, done.
+Resolving deltas: 100% (11/11), done.
